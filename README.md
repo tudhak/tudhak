@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tudhak
-- 👀 I’m interested in continuous learning and engaging in new projects to keep practising my skills.
-- 🌱 I’m currently strengthening my Ruby / Ruby on Rails skills and will be soon learning new tools such as React JS.
-- 💞️ I’m looking to collaborate on challenging and innovative projects.
-<!-- - 📫 How to reach me ... -->
+- 👋 Hi, I’m @tudhak !
+- 👀 I have recently completed a Web development bootcamp at Le Wagon and I’m familiar with Ruby on Rails. Since then, I'm interested in growing my skills through continuous learning and engaging in new projects.
+- 🌱 I’m currently strengthening my Ruby / Ruby on Rails skills and have started learning React, Node.js and Tailwind CSS.
+- 💞️ I’m looking to join an inspiring team to gain further experience.
+- 📫 Please take a look at my website: [TBC]
 
 <!---
 tudhak/tudhak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
